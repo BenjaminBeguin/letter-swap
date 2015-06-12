@@ -2,7 +2,7 @@
 	<head>
 		<meta chaset="utf-8">
 		<script src="js/jquery-2.1.1.js"></script>
-		<script src="js/switch_letter.min.js"></script>
+		<script src="letter-swap.min.js"></script>
 		<link rel="stylesheet" href="css/style.css">
 	</head>
 	<body>
